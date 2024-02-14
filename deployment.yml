@@ -23,7 +23,7 @@ spec:
     spec: # Pod spec
       containers:
       - name: amazon-container
-        image: sagarkc86/amazon:latest
+        image: sagarkc86/amazon:4
         ports:
         - containerPort: 3000
         
